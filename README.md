@@ -1,4 +1,15 @@
 # Push Swap
+###
+<p align="center">
+  <img src="else/cover-push_swap-bonus.png" alt="cover_push_swap_bonus"/>
+</p>
+
+<p align="center">
+  <img src="else/lpush_swapm.png" alt="push_swap_badge"/>
+</p>
+<h1 align="center">
+ 42 Project - LIBFT - Custom Standard C Library
+</h1>
 
 ## Overview
 
