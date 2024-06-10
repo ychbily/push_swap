@@ -77,8 +77,7 @@ The Turk Algorithm, coined in reference to the Mechanical Turk, is an efficient 
 
 You can use third-party testers to fully test the project:
 
-- [SimonCROS/push_swap_complexity_tester](https://github.com/SimonCROS/push_swap_tester)
-- [laisarena/complete_push_swap_tester](https://github.com/laisarena/push_swap_tester)
+- [LeoFu9487 / push_swap_tester](https://github.com/SimonCROS/push_swap_tester](https://github.com/LeoFu9487/push_swap_tester.git)
 
 Additionally, a tool to visualize the movements is available:
 
